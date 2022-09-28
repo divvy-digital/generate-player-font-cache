@@ -1,1 +1,0 @@
-cd .github/workflows && yarn
