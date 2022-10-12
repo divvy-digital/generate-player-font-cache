@@ -746,7 +746,7 @@
   font-family: 'Arial';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/arial.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/arial.ttf)%20format('truetype');
 }
 
 /* Arial Bold */
@@ -755,7 +755,7 @@
   font-family: 'Arial';
   font-style: normal;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/arialbd.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/arialbd.ttf)%20format('truetype');
 }
 
 /* Arial Bold Italic */
@@ -764,7 +764,7 @@
   font-family: 'Arial';
   font-style: italic;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/arialbi.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/arialbi.ttf)%20format('truetype');
 }
 
 /* Arial Italic*/
@@ -773,7 +773,7 @@
   font-family: 'Arial';
   font-style: italic;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ariali.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ariali.ttf)%20format('truetype');
 }
 
 /* Arial Black*/
@@ -782,7 +782,7 @@
   font-family: 'Arial';
   font-style: normal;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ariblk.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ariblk.ttf)%20format('truetype');
 }
 
 /* Arial Narrow */
@@ -793,7 +793,7 @@
   font-family: 'Arial';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ARIALN.TTF) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ARIALN.TTF)%20format('truetype');
 }
 
 /* Arial Narow Bold */
@@ -802,7 +802,7 @@
   font-family: 'Arial';
   font-style: normal;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ARIALNB.TTF) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ARIALNB.TTF)%20format('truetype');
 }
 
 /* Arial Narow Bold Italic */
@@ -811,7 +811,7 @@
   font-family: 'Arial';
   font-style: italic;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ARIALNBI.TTF) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ARIALNBI.TTF)%20format('truetype');
 }
 
 /* Arial Narow Italic */
@@ -820,7 +820,7 @@
   font-family: 'Arial';
   font-style: italic;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ARIALNI.TTF) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ARIALNI.TTF)%20format('truetype');
 }
 
 /* Arial Rounded MT Bold */
@@ -831,7 +831,7 @@
   font-family: 'Arial Rounded MT Bold';
   font-style: normal;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ARLRDBD.TTF) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ARLRDBD.TTF)%20format('truetype');
 }
 
 /* Bahnschrift Light */
@@ -842,7 +842,7 @@
   font-family: 'Bahnschrift Light';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/bahnschrift.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/bahnschrift.ttf)%20format('truetype');
 }
 
 /* Berkshire Swash */
@@ -853,7 +853,7 @@
   font-family: 'Berkshire Swash', cursive;
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/BerkshireSwash-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/BerkshireSwash-Regular.ttf)%20format('truetype');
 }
 
 /* Bungee Outline */
@@ -864,7 +864,7 @@
   font-family: 'Bungee Outline';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/BungeeOutline-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/BungeeOutline-Regular.ttf)%20format('truetype');
 }
 
 /* Coco Gothic */
@@ -875,7 +875,7 @@
   font-family: 'Coco Gothic';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic_trial.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic_trial.ttf)%20format('truetype');
 }
 
 /* Coco Gothic Bold */
@@ -884,7 +884,7 @@
   font-family: 'Coco Gothic';
   font-style: italic;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-Italic_trial.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-Italic_trial.ttf)%20format('truetype');
 }
 
 /* Coco Gothic Bold */
@@ -893,7 +893,7 @@
   font-family: 'Coco Gothic';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-Bold_trial.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-Bold_trial.ttf)%20format('truetype');
 }
 
 /* Coco Gothic Bold Italic */
@@ -902,7 +902,7 @@
   font-family: 'Coco Gothic';
   font-style: italic;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-BoldItalic_trial.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-BoldItalic_trial.ttf)%20format('truetype');
 }
 
 /* Coco Gothic ExtBlk */
@@ -913,7 +913,7 @@
   font-family: 'Coco Gothic ExtBlk';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-Fat_trial.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-Fat_trial.ttf)%20format('truetype');
 }
 
 /* Coco Gothic Fat Italic */
@@ -922,7 +922,7 @@
   font-family: 'Coco Gothic ExtBlk';
   font-style: italic;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-FatItalic_trial.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-FatItalic_trial.ttf)%20format('truetype');
 }
 
 /* Coco Gothic ExtLt */
@@ -933,7 +933,7 @@
   font-family: 'Coco Gothic ExtLt';
   font-style: normal;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-UltraLight_trial.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-UltraLight_trial.ttf)%20format('truetype');
 }
 
 /* Coco Gothic Ultra Light Italic */
@@ -942,7 +942,7 @@
   font-family: 'Coco Gothic ExtLt';
   font-style: italic;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-UltraLightItalic_trial.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-UltraLightItalic_trial.ttf)%20format('truetype');
 }
 
 /* Coco Gothic Heavy */
@@ -953,7 +953,7 @@
   font-family: 'Coco Gothic Heavy';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-Heavy_trial.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-Heavy_trial.ttf)%20format('truetype');
 }
 
 /* Coco Gothic Fat Italic */
@@ -962,7 +962,7 @@
   font-family: 'Coco Gothic Heavy';
   font-style: italic;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-HeavyItalic_trial.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-HeavyItalic_trial.ttf)%20format('truetype');
 }
 
 /* Coco Gothic Light */
@@ -973,7 +973,7 @@
   font-family: 'Coco Gothic Light';
   font-style: normal;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-Light_trial.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-Light_trial.ttf)%20format('truetype');
 }
 
 /* Coco Gothic Light Italic */
@@ -982,7 +982,7 @@
   font-family: 'Coco Gothic Light';
   font-style: italic;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-LightItalic_trial.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/CocoGothic-LightItalic_trial.ttf)%20format('truetype');
 }
 
 /* Cocogoose */
@@ -993,7 +993,7 @@
   font-family: 'COCOGOOSE';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Cocogoose_trial.otf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Cocogoose_trial.otf)%20format('truetype');
 }
 
 /* Cocogoose Light */
@@ -1002,7 +1002,7 @@
   font-family: 'COCOGOOSE';
   font-style: normal;
   font-weight: 300;
-  src: url('Cocogoose Pro Light-trial.ttf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Cocogoose%20Pro%20Light-trial.ttf')%20format('truetype');
 }
 
 /* Cocogoose Semi Light */
@@ -1011,7 +1011,7 @@
   font-family: 'COCOGOOSE';
   font-style: normal;
   font-weight: 400;
-  src: url('Cocogoose Pro Semilight-trial.ttf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Cocogoose%20Pro%20Semilight-trial.ttf')%20format('truetype');
 }
 
 /* Cocogoose Ultra Light */
@@ -1020,7 +1020,7 @@
   font-family: 'COCOGOOSE';
   font-style: normal;
   font-weight: 200;
-  src: url('Cocogoose Pro Ultralight-trial.ttf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Cocogoose%20Pro%20Ultralight-trial.ttf')%20format('truetype');
 }
 
 /* Diplomata SC */
@@ -1031,7 +1031,7 @@
   font-family: 'Dimplomata SC';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/DiplomataSC-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/DiplomataSC-Regular.ttf)%20format('truetype');
 }
 
 /* Eureka Sans Black */
@@ -1042,7 +1042,7 @@
   font-family: 'Eureka Sans Black';
   font-style: normal;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/EurekaSans-Black.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/EurekaSans-Black.ttf)%20format('truetype');
 }
 
 /* Eureka Sans Bold CAPS */
@@ -1053,7 +1053,7 @@
   font-family: 'Eureka Sans Bold CAPS';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/EurekaSansCapitals-Bold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/EurekaSansCapitals-Bold.ttf)%20format('truetype');
 }
 
 /* Eureka Sans Medium CAPS */
@@ -1064,7 +1064,7 @@
   font-family: 'Eureka Sans Medium CAPS';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/EurekaSansCapitals-Medium.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/EurekaSansCapitals-Medium.ttf)%20format('truetype');
 }
 
 /* Eureka Sans Regular CAPS */
@@ -1075,7 +1075,7 @@
   font-family: 'Eureka Sans Regular CAPS';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/EurekaSansCapitals-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/EurekaSansCapitals-Regular.ttf)%20format('truetype');
 }
 
 /* EurekaSansOT-CondMedium */
@@ -1086,7 +1086,7 @@
   font-family: 'EurekaSansOT-CondMedium';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/EurekaSansCondensed-CondMed.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/EurekaSansCondensed-CondMed.ttf)%20format('truetype');
 }
 
 /* Fjalla One */
@@ -1097,7 +1097,7 @@
   font-family: 'Fjalla One';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/FjallaOne-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/FjallaOne-Regular.ttf)%20format('truetype');
 }
 
 /* Greycliff CF */
@@ -1108,7 +1108,7 @@
   font-family: 'Greycliff CF';
   font-style: normal;
   font-weight: 400;
-  src: url('Connary Fagen - Greycliff CF Regular.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Regular.otf')%20format('truetype');
 }
 
 /* Greycliff CF Italic */
@@ -1117,7 +1117,7 @@
   font-family: 'Greycliff CF';
   font-style: italic;
   font-weight: 400;
-  src: url('Connary Fagen - Greycliff CF Regular Oblique.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Regular%20Oblique.otf')%20format('truetype');
 }
 
 /* Greycliff CF Bold */
@@ -1126,7 +1126,7 @@
   font-family: 'Greycliff CF';
   font-style: normal;
   font-weight: 600;
-  src: url('Connary Fagen - Greycliff CF Bold.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Bold.otf')%20format('truetype');
 }
 
 /* Greycliff CF Bold */
@@ -1135,7 +1135,7 @@
   font-family: 'Greycliff CF';
   font-style: italic;
   font-weight: 600;
-  src: url('Connary Fagen - Greycliff CF Bold Oblique.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Bold%20Oblique.otf')%20format('truetype');
 }
 
 /* Greycliff CF Demi Bold */
@@ -1146,7 +1146,7 @@
   font-family: 'Greycliff CF Demi Bold';
   font-style: normal;
   font-weight: 600;
-  src: url('Connary Fagen - Greycliff CF Demi Bold.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Demi%20Bold.otf')%20format('truetype');
 }
 
 /* Greycliff CF Demi Bold Italic */
@@ -1155,7 +1155,7 @@
   font-family: 'Greycliff CF Demi Bold';
   font-style: italic;
   font-weight: 600;
-  src: url('Connary Fagen - Greycliff CF Demi Bold Oblique.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Demi%20Bold%20Oblique.otf')%20format('truetype');
 }
 
 /* Greycliff CF Extra Bold */
@@ -1166,7 +1166,7 @@
   font-family: 'Greycliff CF Demi Bold';
   font-style: normal;
   font-weight: 900;
-  src: url('Connary Fagen - Greycliff CF Extra Bold.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Extra%20Bold.otf')%20format('truetype');
 }
 
 /* Greycliff CF Extra Bold Italic */
@@ -1175,7 +1175,7 @@
   font-family: 'Greycliff CF Demi Bold';
   font-style: italic;
   font-weight: 900;
-  src: url('Connary Fagen - Greycliff CF Extra Bold Oblique.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Extra%20Bold%20Oblique.otf')%20format('truetype');
 }
 
 /* Greycliff CF Extra Light */
@@ -1186,7 +1186,7 @@
   font-family: 'Greycliff CF Extra Light';
   font-style: normal;
   font-weight: 200;
-  src: url('Connary Fagen - Greycliff CF Extra Light.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Extra%20Light.otf')%20format('truetype');
 }
 
 /* Greycliff CF Extra Light Italic */
@@ -1195,7 +1195,7 @@
   font-family: 'Greycliff CF Extra Light';
   font-style: italic;
   font-weight: 200;
-  src: url('Connary Fagen - Greycliff CF Extra Light Oblique.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Extra%20Light%20Oblique.otf')%20format('truetype');
 }
 
 /* Greycliff CF Heavy */
@@ -1206,7 +1206,7 @@
   font-family: 'Greycliff CF Heavy';
   font-style: normal;
   font-weight: 900;
-  src: url('Connary Fagen - Greycliff CF Heavy.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Heavy.otf')%20format('truetype');
 }
 
 /* Greycliff CF Extra Heavy Italic */
@@ -1215,7 +1215,7 @@
   font-family: 'Greycliff CF Heavy';
   font-style: italic;
   font-weight: 900;
-  src: url('Connary Fagen - Greycliff CF Heavy Oblique.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Heavy%20Oblique.otf')%20format('truetype');
 }
 
 /* Greycliff CF Light */
@@ -1226,7 +1226,7 @@
   font-family: 'Greycliff CF Light';
   font-style: normal;
   font-weight: 300;
-  src: url('Connary Fagen - Greycliff CF Light.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Light.otf')%20format('truetype');
 }
 
 /* Greycliff CF Extra Light Italic */
@@ -1235,7 +1235,7 @@
   font-family: 'Greycliff CF Light';
   font-style: italic;
   font-weight: 300;
-  src: url('Connary Fagen - Greycliff CF Light Oblique.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Light%20Oblique.otf')%20format('truetype');
 }
 
 /* Greycliff CF Medium */
@@ -1246,7 +1246,7 @@
   font-family: 'Greycliff CF Medium';
   font-style: normal;
   font-weight: 400;
-  src: url('Connary Fagen - Greycliff CF Medium.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Medium.otf')%20format('truetype');
 }
 
 /* Greycliff CF Medium Italic */
@@ -1255,7 +1255,7 @@
   font-family: 'Greycliff CF Light';
   font-style: italic;
   font-weight: 400;
-  src: url('Connary Fagen - Greycliff CF Medium Oblique.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Medium%20Oblique.otf')%20format('truetype');
 }
 
 /* Greycliff CF Thin */
@@ -1266,7 +1266,7 @@
   font-family: 'Greycliff CF Thin';
   font-style: normal;
   font-weight: 200;
-  src: url('Connary Fagen - Greycliff CF Thin.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Thin.otf')%20format('truetype');
 }
 
 /* Greycliff CF Thin Italic */
@@ -1275,7 +1275,7 @@
   font-family: 'Greycliff CF Thin';
   font-style: italic;
   font-weight: 200;
-  src: url('Connary Fagen - Greycliff CF Thin Oblique.otf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'Connary%20Fagen%20-%20Greycliff%20CF%20Thin%20Oblique.otf')%20format('truetype');
 }
 
 /* Helvetica */
@@ -1286,7 +1286,7 @@
   font-family: 'Helvetica';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Helvetica.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Helvetica.ttf)%20format('truetype');
 }
 
 /* Helvetica Italic */
@@ -1295,7 +1295,7 @@
   font-family: 'Helvetica';
   font-style: italic;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Helvetica-Oblique.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Helvetica-Oblique.ttf)%20format('truetype');
 }
 
 /* Helvetica Bold */
@@ -1304,7 +1304,7 @@
   font-family: 'Helvetica';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Helvetica-Bold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Helvetica-Bold.ttf)%20format('truetype');
 }
 
 /* Helvetica Bold Italic */
@@ -1313,7 +1313,7 @@
   font-family: 'Helvetica';
   font-style: italic;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Helvetica-BoldOblique.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Helvetica-BoldOblique.ttf)%20format('truetype');
 }
 
 /* Helvetica Compressed */
@@ -1324,7 +1324,7 @@
   font-family: 'Helvetica Compressed';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/helvetica-compressed.otf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/helvetica-compressed.otf)%20format('truetype');
 }
 
 /* Helvetica Light */
@@ -1335,7 +1335,7 @@
   font-family: 'Helvetica Light';
   font-style: normal;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/helvetica-light.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/helvetica-light.ttf)%20format('truetype');
 }
 
 /* Helvetica Rounded Bold */
@@ -1346,7 +1346,7 @@
   font-family: 'Helvetica Rounded';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/helvetica-rounded-bold.otf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/helvetica-rounded-bold.otf)%20format('truetype');
 }
 
 /* Jacques Francois Shadow */
@@ -1357,7 +1357,7 @@
   font-family: 'Jacques Francois Shadow';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/JacquesFrancoisShadow-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/JacquesFrancoisShadow-Regular.ttf)%20format('truetype');
 }
 
 /* Lato */
@@ -1368,7 +1368,7 @@
   font-family: 'Lato';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-Regular.ttf)%20format('truetype');
 }
 
 /* Lato Italic */
@@ -1377,7 +1377,7 @@
   font-family: 'Lato';
   font-style: italic;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-Italic.ttf)%20format('truetype');
 }
 
 /* Lato Bold */
@@ -1386,7 +1386,7 @@
   font-family: 'Lato';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-Bold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-Bold.ttf)%20format('truetype');
 }
 
 /* Lato Bold Italic */
@@ -1395,7 +1395,7 @@
   font-family: 'Lato';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-BoldItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-BoldItalic.ttf)%20format('truetype');
 }
 
 /* Lato Black */
@@ -1406,7 +1406,7 @@
   font-family: 'Lato Black';
   font-style: normal;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-Black.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-Black.ttf)%20format('truetype');
 }
 
 /* Lato Black Italic */
@@ -1415,7 +1415,7 @@
   font-family: 'Lato Black';
   font-style: normal;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-BlackItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-BlackItalic.ttf)%20format('truetype');
 }
 
 /* Lato Light */
@@ -1426,7 +1426,7 @@
   font-family: 'Lato Light';
   font-style: normal;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-Light.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-Light.ttf)%20format('truetype');
 }
 
 /* Lato Light Italic */
@@ -1435,7 +1435,7 @@
   font-family: 'Lato light';
   font-style: normal;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-LightItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-LightItalic.ttf)%20format('truetype');
 }
 
 /* Lato Thin */
@@ -1446,7 +1446,7 @@
   font-family: 'Lato Hairline';
   font-style: normal;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-Thin.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-Thin.ttf)%20format('truetype');
 }
 
 /* Lato Hairline Italic */
@@ -1455,7 +1455,7 @@
   font-family: 'Lato Hairline';
   font-style: normal;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-ThinItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Lato-ThinItalic.ttf)%20format('truetype');
 }
 
 /* Metal Mania */
@@ -1466,7 +1466,7 @@
   font-family: 'Metal Mania';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/MetalMania-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/MetalMania-Regular.ttf)%20format('truetype');
 }
 
 /* Monofett-Regular */
@@ -1477,7 +1477,7 @@
   font-family: 'Monofett';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Monofett-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Monofett-Regular.ttf)%20format('truetype');
 }
 
 /* Montserrat */
@@ -1488,7 +1488,7 @@
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-Regular.ttf)%20format('truetype');
 }
 
 /* Montserrat Italic */
@@ -1497,7 +1497,7 @@
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-Italic.ttf)%20format('truetype');
 }
 
 /* Montserrat Bold */
@@ -1506,7 +1506,7 @@
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-Bold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-Bold.ttf)%20format('truetype');
 }
 
 /* Montserrat BoldItalic */
@@ -1515,7 +1515,7 @@
   font-family: 'Montserrat';
   font-style: italic;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-BoldItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-BoldItalic.ttf)%20format('truetype');
 }
 
 /* Montserrat Black */
@@ -1526,7 +1526,7 @@
   font-family: 'Montserrat Black';
   font-style: normal;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-Black.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-Black.ttf)%20format('truetype');
 }
 
 /* Montserrat Black Italic */
@@ -1535,7 +1535,7 @@
   font-family: 'Montserrat Black';
   font-style: italic;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-BlackItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-BlackItalic.ttf)%20format('truetype');
 }
 
 /* Montserrat ExtraBold */
@@ -1546,7 +1546,7 @@
   font-family: 'Montserrat ExtraBold';
   font-style: normal;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-ExtraBold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-ExtraBold.ttf)%20format('truetype');
 }
 
 /* Montserrat ExtraBold Italic */
@@ -1555,7 +1555,7 @@
   font-family: 'Montserrat ExtraBold';
   font-style: italic;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-ExtraBoldItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-ExtraBoldItalic.ttf)%20format('truetype');
 }
 
 /* Montserrat ExtraLight */
@@ -1566,7 +1566,7 @@
   font-family: 'Montserrat ExtraLight';
   font-style: normal;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-ExtraLight.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-ExtraLight.ttf)%20format('truetype');
 }
 
 /* Montserrat ExtraLight Italic */
@@ -1575,7 +1575,7 @@
   font-family: 'Montserrat ExtraLight';
   font-style: italic;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-ExtraLightItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-ExtraLightItalic.ttf)%20format('truetype');
 }
 
 /* Montserrat Medium */
@@ -1586,7 +1586,7 @@
   font-family: 'Montserrat Medium';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-Medium.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-Medium.ttf)%20format('truetype');
 }
 
 /* Montserrat Medium Italic */
@@ -1595,7 +1595,7 @@
   font-family: 'Montserrat Medium';
   font-style: italic;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-MediumItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-MediumItalic.ttf)%20format('truetype');
 }
 
 /* Montserrat SemiBold */
@@ -1606,7 +1606,7 @@
   font-family: 'Montserrat SemiBold';
   font-style: normal;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-SemiBold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-SemiBold.ttf)%20format('truetype');
 }
 
 /* Montserrat SemiBold Italic */
@@ -1615,7 +1615,7 @@
   font-family: 'Montserrat SemiBold';
   font-style: italic;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-SemiBoldItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-SemiBoldItalic.ttf)%20format('truetype');
 }
 
 /* Montserrat Thin */
@@ -1626,7 +1626,7 @@
   font-family: 'Montserrat Thin';
   font-style: normal;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-Thin.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-Thin.ttf)%20format('truetype');
 }
 
 /* Montserrat Thin Italic */
@@ -1635,7 +1635,7 @@
   font-family: 'Montserrat Thin';
   font-style: italic;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-ThinItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Montserrat-ThinItalic.ttf)%20format('truetype');
 }
 
 /* Nabla */
@@ -1646,7 +1646,7 @@
   font-family: 'Nabla';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Nabla-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Nabla-Regular.ttf)%20format('truetype');
 }
 
 /* Nosifer */
@@ -1657,7 +1657,7 @@
   font-family: 'Nosifer';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Nosifer-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Nosifer-Regular.ttf)%20format('truetype');
 }
 
 /* Noto Color Emoji */
@@ -1668,7 +1668,7 @@
   font-family: 'Noto Color Emoji';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/NotoColorEmoji-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/NotoColorEmoji-Regular.ttf)%20format('truetype');
 }
 
 /* Noto Sans EgyptHiero */
@@ -1679,7 +1679,7 @@
   font-family: 'Noto Sans EgyptHiero';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/NotoSansEgyptianHieroglyphs-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/NotoSansEgyptianHieroglyphs-Regular.ttf)%20format('truetype');
 }
 
 /* Old English Text MT */
@@ -1690,7 +1690,7 @@
   font-family: 'Old English Text MT';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/OLDENGL.TTF) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/OLDENGL.TTF)%20format('truetype');
 }
 
 /* Poppins */
@@ -1701,7 +1701,7 @@
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Regular.ttf)%20format('truetype');
 }
 
 /* Poppins Italic */
@@ -1710,7 +1710,7 @@
   font-family: 'Poppins';
   font-style: italic;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Italic.ttf)%20format('truetype');
 }
 
 /* Poppins Bold */
@@ -1719,7 +1719,7 @@
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Bold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Bold.ttf)%20format('truetype');
 }
 
 /* Poppins Bold Italic */
@@ -1728,7 +1728,7 @@
   font-family: 'Poppins';
   font-style: italic;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-BoldItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-BoldItalic.ttf)%20format('truetype');
 }
 
 /* Poppins Black */
@@ -1739,7 +1739,7 @@
   font-family: 'Poppins Black';
   font-style: normal;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Black.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Black.ttf)%20format('truetype');
 }
 
 /* Poppins Black Italic */
@@ -1748,7 +1748,7 @@
   font-family: 'Poppins Black';
   font-style: italic;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-BlackItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-BlackItalic.ttf)%20format('truetype');
 }
 
 /* Poppins ExtraBold */
@@ -1759,7 +1759,7 @@
   font-family: 'Poppins ExtraBold';
   font-style: normal;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-ExtraBold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-ExtraBold.ttf)%20format('truetype');
 }
 
 /* Poppins ExtraBold Italic */
@@ -1768,7 +1768,7 @@
   font-family: 'Poppins ExtraBold';
   font-style: italic;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-ExtraBoldItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-ExtraBoldItalic.ttf)%20format('truetype');
 }
 
 /* Poppins ExtraLight */
@@ -1779,7 +1779,7 @@
   font-family: 'Poppins ExtraLight';
   font-style: normal;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-ExtraLight.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-ExtraLight.ttf)%20format('truetype');
 }
 
 /* Poppins ExtraLight Italic */
@@ -1788,7 +1788,7 @@
   font-family: 'Poppins ExtraLight';
   font-style: italic;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-ExtraLightItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-ExtraLightItalic.ttf)%20format('truetype');
 }
 
 /* Poppins Light */
@@ -1799,7 +1799,7 @@
   font-family: 'Poppins Light';
   font-style: normal;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Light.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Light.ttf)%20format('truetype');
 }
 
 /* Poppins Light Italic */
@@ -1808,7 +1808,7 @@
   font-family: 'Poppins Light';
   font-style: italic;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-LightItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-LightItalic.ttf)%20format('truetype');
 }
 
 /* Poppins Medium */
@@ -1819,7 +1819,7 @@
   font-family: 'Poppins Medium';
   font-style: normal;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Medium.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Medium.ttf)%20format('truetype');
 }
 
 /* Poppins Medium Italic */
@@ -1828,7 +1828,7 @@
   font-family: 'Poppins Medium';
   font-style: italic;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-MediumItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-MediumItalic.ttf)%20format('truetype');
 }
 
 /* Poppins SemiBold */
@@ -1839,7 +1839,7 @@
   font-family: 'Poppins SemiBold';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-SemiBold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-SemiBold.ttf)%20format('truetype');
 }
 
 /* Poppins SemiBold Italic */
@@ -1848,7 +1848,7 @@
   font-family: 'Poppins SemiBold';
   font-style: italic;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-SemiBoldItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-SemiBoldItalic.ttf)%20format('truetype');
 }
 
 /* Poppins Thin */
@@ -1859,7 +1859,7 @@
   font-family: 'Poppins Thin';
   font-style: normal;
   font-weight: 100;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Thin.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-Thin.ttf)%20format('truetype');
 }
 
 /* Poppins SThin Italic */
@@ -1868,7 +1868,7 @@
   font-family: 'Poppins Thin';
   font-style: italic;
   font-weight: 100;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-ThinItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Poppins-ThinItalic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova */
@@ -1879,7 +1879,7 @@
   font-family: 'Proxima Nova';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Italic */
@@ -1888,7 +1888,7 @@
   font-family: 'Proxima Nova';
   font-style: italic;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Bold */
@@ -1897,7 +1897,7 @@
   font-family: 'Proxima Nova';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Bold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Bold.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Bold Italic */
@@ -1906,7 +1906,7 @@
   font-family: 'Proxima Nova';
   font-style: italic;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Bold-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Bold-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Black */
@@ -1917,7 +1917,7 @@
   font-family: 'Proxima Nova Black';
   font-style: normal;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Black.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Black.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Black Italic */
@@ -1926,7 +1926,7 @@
   font-family: 'Proxima Nova Black';
   font-style: italic;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Black-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Black-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Condensed */
@@ -1937,7 +1937,7 @@
   font-family: 'Proxima Nova Condensed';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Italic */
@@ -1946,7 +1946,7 @@
   font-family: 'Proxima Nova Condensed';
   font-style: italic;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Bold Condensed */
@@ -1955,7 +1955,7 @@
   font-family: 'Proxima Nova Condensed';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Bold Italic */
@@ -1964,7 +1964,7 @@
   font-family: 'Proxima Nova Condensed';
   font-style: italic;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Condensed Black */
@@ -1975,7 +1975,7 @@
   font-family: 'Proxima Nova Condensed Black';
   font-style: normal;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Black.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Black.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Black Condensed Italic */
@@ -1984,7 +1984,7 @@
   font-family: 'Proxima Nova Condensed Black';
   font-style: italic;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Black-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Black-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Condensed ExtraBold */
@@ -1995,7 +1995,7 @@
   font-family: 'Proxima Nova Condensed ExtraBold';
   font-style: normal;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-ExtraBold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-ExtraBold.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Condensed ExtraBold Italic */
@@ -2004,7 +2004,7 @@
   font-family: 'Proxima Nova Condensed ExtraBold';
   font-style: italic;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-ExtraBold-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-ExtraBold-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Condensed Light */
@@ -2015,7 +2015,7 @@
   font-family: 'Proxima Nova Condensed Light';
   font-style: normal;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Light.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Light.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Condensed Light Italic */
@@ -2024,7 +2024,7 @@
   font-family: 'Proxima Nova Condensed Light';
   font-style: italic;
   font-weight: 300;
-  src: url('ProximaNova-Condensed Light-Italic.ttf') format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/'ProximaNova-Condensed%20Light-Italic.ttf')%20format('truetype');
 }
 
 /* Proxima Nova Condensed SemiBold */
@@ -2035,7 +2035,7 @@
   font-family: 'Proxima Nova Condensed SemiBold';
   font-style: normal;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-SemiBold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-SemiBold.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Condensed SemiBold Italic */
@@ -2044,7 +2044,7 @@
   font-family: 'Proxima Nova Condensed SemiBold';
   font-style: italic;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-SemiBold-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-SemiBold-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Condensed Thin */
@@ -2055,7 +2055,7 @@
   font-family: 'Proxima Nova Condensed Thin';
   font-style: normal;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Thin.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Thin.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Condensed Thin Italic */
@@ -2064,7 +2064,7 @@
   font-family: 'Proxima Nova Condensed Thin';
   font-style: italic;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Thin-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Condensed-Thin-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn */
@@ -2075,7 +2075,7 @@
   font-family: 'Proxima Nova ExCn';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn Italic */
@@ -2084,7 +2084,7 @@
   font-family: 'Proxima Nova ExCn';
   font-style: italic;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn Bold */
@@ -2093,7 +2093,7 @@
   font-family: 'Proxima Nova ExCn';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Bold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Bold.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn Bold Italic */
@@ -2102,7 +2102,7 @@
   font-family: 'Proxima Nova ExCn';
   font-style: italic;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Bold-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Bold-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn Black */
@@ -2113,7 +2113,7 @@
   font-family: 'Proxima Nova ExCn Black';
   font-style: normal;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Black.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Black.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn Black Italic */
@@ -2122,7 +2122,7 @@
   font-family: 'Proxima Nova ExCn Black';
   font-style: italic;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Black-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Black-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn ExtraBold */
@@ -2133,7 +2133,7 @@
   font-family: 'Proxima Nova ExCn ExtraBold';
   font-style: normal;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-ExtraBold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-ExtraBold.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn ExtraBold Italic */
@@ -2142,7 +2142,7 @@
   font-family: 'Proxima Nova ExCn ExtraBold';
   font-style: italic;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-ExtraBold-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-ExtraBold-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn Light */
@@ -2153,7 +2153,7 @@
   font-family: 'Proxima Nova ExCn Light';
   font-style: normal;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Light.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Light.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn Light Italic */
@@ -2162,7 +2162,7 @@
   font-family: 'Proxima Nova ExCn Light';
   font-style: italic;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Light-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Light-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn SemiBold */
@@ -2173,7 +2173,7 @@
   font-family: 'Proxima Nova ExCn SemiBold';
   font-style: normal;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-SemiBold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-SemiBold.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn SemiBold Italic */
@@ -2182,7 +2182,7 @@
   font-family: 'Proxima Nova ExCn SemiBold';
   font-style: italic;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-SemiBold-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-SemiBold-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn Thin */
@@ -2193,7 +2193,7 @@
   font-family: 'Proxima Nova ExCn Thin';
   font-style: normal;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Thin.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Thin.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExCn Thin Italic */
@@ -2202,7 +2202,7 @@
   font-family: 'Proxima Nova ExCn Thin';
   font-style: italic;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Thin-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExCn-Thin-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExtraBold */
@@ -2213,7 +2213,7 @@
   font-family: 'Proxima Nova ExtraBold';
   font-style: normal;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExtraBold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExtraBold.ttf)%20format('truetype');
 }
 
 /* Proxima Nova ExtraBold Italic */
@@ -2222,7 +2222,7 @@
   font-family: 'Proxima Nova ExtraBold';
   font-style: italic;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExtraBold-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-ExtraBold-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Light */
@@ -2233,7 +2233,7 @@
   font-family: 'Proxima Nova Light';
   font-style: normal;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Light.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Light.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Light Italic */
@@ -2242,7 +2242,7 @@
   font-family: 'Proxima Nova Light';
   font-style: italic;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Light-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Light-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova SemiBold */
@@ -2253,7 +2253,7 @@
   font-family: 'Proxima Nova SemiBold';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-SemiBold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-SemiBold.ttf)%20format('truetype');
 }
 
 /* Proxima Nova SemiBold Italic */
@@ -2262,7 +2262,7 @@
   font-family: 'Proxima Nova SemiBold';
   font-style: italic;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-SemiBold-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-SemiBold-Italic.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Thin */
@@ -2273,7 +2273,7 @@
   font-family: 'Proxima Nova Thin';
   font-style: normal;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Thin.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Thin.ttf)%20format('truetype');
 }
 
 /* Proxima Nova Thin Italic */
@@ -2282,7 +2282,7 @@
   font-family: 'Proxima Nova Thin';
   font-style: italic;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Thin-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/ProximaNova-Thin-Italic.ttf)%20format('truetype');
 }
 
 /* Rajdhani */
@@ -2293,7 +2293,7 @@
   font-family: 'Rajdhani';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Rajdhani-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Rajdhani-Regular.ttf)%20format('truetype');
 }
 
 /* Rajdhani Bold */
@@ -2302,7 +2302,7 @@
   font-family: 'Rajdhani';
   font-style: normal;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Rajdhani-Bold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Rajdhani-Bold.ttf)%20format('truetype');
 }
 
 /* Rajdhani Light */
@@ -2313,7 +2313,7 @@
   font-family: 'Rajdhani Light';
   font-style: normal;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Rajdhani-Light.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Rajdhani-Light.ttf)%20format('truetype');
 }
 
 /* Rajdhani Medium */
@@ -2324,7 +2324,7 @@
   font-family: 'Rajdhani Medium';
   font-style: normal;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Rajdhani-Medium.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Rajdhani-Medium.ttf)%20format('truetype');
 }
 
 /* Rajdhani SemiBold */
@@ -2335,7 +2335,7 @@
   font-family: 'Rajdhani SemiBold';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Rajdhani-SemiBold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Rajdhani-SemiBold.ttf)%20format('truetype');
 }
 
 /* Raleway */
@@ -2346,7 +2346,7 @@
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Regular.ttf)%20format('truetype');
 }
 
 /* Raleway Italic */
@@ -2355,7 +2355,7 @@
   font-family: 'Raleway';
   font-style: italic;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Italic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Italic.ttf)%20format('truetype');
 }
 
 /* Raleway Bold */
@@ -2364,7 +2364,7 @@
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Bold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Bold.ttf)%20format('truetype');
 }
 
 /* Raleway Bold Italic */
@@ -2373,7 +2373,7 @@
   font-family: 'Raleway';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-BoldItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-BoldItalic.ttf)%20format('truetype');
 }
 
 /* Raleway Black */
@@ -2384,7 +2384,7 @@
   font-family: 'Raleway Black';
   font-style: normal;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Black.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Black.ttf)%20format('truetype');
 }
 
 /* Raleway Black Italic */
@@ -2393,7 +2393,7 @@
   font-family: 'Raleway Black';
   font-style: italic;
   font-weight: 900;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-BlackItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-BlackItalic.ttf)%20format('truetype');
 }
 
 /* Raleway ExtraBold */
@@ -2404,7 +2404,7 @@
   font-family: 'Raleway ExtraBold';
   font-style: normal;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-ExtraBold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-ExtraBold.ttf)%20format('truetype');
 }
 
 /* Raleway ExtraBold Italic */
@@ -2413,7 +2413,7 @@
   font-family: 'Raleway ExtraBold';
   font-style: italic;
   font-weight: 800;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-ExtraBoldItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-ExtraBoldItalic.ttf)%20format('truetype');
 }
 
 /* Raleway ExtraLight */
@@ -2424,7 +2424,7 @@
   font-family: 'Raleway ExtraLight';
   font-style: normal;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-ExtraLight.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-ExtraLight.ttf)%20format('truetype');
 }
 
 /* Raleway ExtraLight Italic */
@@ -2433,7 +2433,7 @@
   font-family: 'Raleway ExtraLight';
   font-style: italic;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-ExtraLightItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-ExtraLightItalic.ttf)%20format('truetype');
 }
 
 /* Raleway Light */
@@ -2444,7 +2444,7 @@
   font-family: 'Raleway Light';
   font-style: normal;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Light.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Light.ttf)%20format('truetype');
 }
 
 /* Raleway Light Italic */
@@ -2453,7 +2453,7 @@
   font-family: 'Raleway Light';
   font-style: italic;
   font-weight: 300;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-LightItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-LightItalic.ttf)%20format('truetype');
 }
 
 /* Raleway Medium */
@@ -2464,7 +2464,7 @@
   font-family: 'Raleway Medium';
   font-style: normal;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Medium.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Medium.ttf)%20format('truetype');
 }
 
 /* Raleway Medium Italic */
@@ -2473,7 +2473,7 @@
   font-family: 'Raleway Medium';
   font-style: italic;
   font-weight: 500;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-MediumItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-MediumItalic.ttf)%20format('truetype');
 }
 
 /* Raleway SemiBold */
@@ -2484,7 +2484,7 @@
   font-family: 'Raleway SemiBold';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-SemiBold.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-SemiBold.ttf)%20format('truetype');
 }
 
 /* Raleway SemiBold Italic */
@@ -2493,7 +2493,7 @@
   font-family: 'Raleway SemiBold';
   font-style: italic;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-SemiBoldItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-SemiBoldItalic.ttf)%20format('truetype');
 }
 
 /* Raleway Thin */
@@ -2504,7 +2504,7 @@
   font-family: 'Raleway Thin';
   font-style: normal;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Thin.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-Thin.ttf)%20format('truetype');
 }
 
 /* Raleway Thin Italic */
@@ -2513,7 +2513,7 @@
   font-family: 'Raleway Thin';
   font-style: italic;
   font-weight: 200;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-ThinItalic.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/Raleway-ThinItalic.ttf)%20format('truetype');
 }
 
 /* Rampart One */
@@ -2524,7 +2524,7 @@
   font-family: 'Rampart One';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/RampartOne-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/RampartOne-Regular.ttf)%20format('truetype');
 }
 
 /* Söhne */
@@ -2535,7 +2535,7 @@
   font-family: 'Söhne';
   font-style: normal;
   font-weight: 400;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/S%D0%A4hne-Buch.otf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/S%D0%A4hne-Buch.otf)%20format('truetype');
 }
 
 /* Söhne Extrafett */
@@ -2546,7 +2546,7 @@
   font-family: 'Söhne Extrafett';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/S%D0%A4hne-Extrafett.otf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/S%D0%A4hne-Extrafett.otf)%20format('truetype');
 }
 
 /* Train One */
@@ -2557,6 +2557,6 @@
   font-family: 'Train One';
   font-style: normal;
   font-weight: 600;
-  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/TrainOne-Regular.ttf) format('truetype');
+  src: url(https://cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/TrainOne-Regular.ttf)%20format('truetype');
 }
 
