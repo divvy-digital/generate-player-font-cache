@@ -743,7 +743,7 @@
 /* Arial */
 
 @font-face {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/arial.ttf) format('truetype');
@@ -752,7 +752,7 @@
 /* Arial Bold */
 
 @font-face {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial';
   font-style: normal;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/arialbd.ttf) format('truetype');
@@ -761,7 +761,7 @@
 /* Arial Bold Italic */
 
 @font-face {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial';
   font-style: italic;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/arialbi.ttf) format('truetype');
@@ -770,7 +770,7 @@
 /* Arial Italic*/
 
 @font-face {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial';
   font-style: italic;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ariali.ttf) format('truetype');
@@ -779,7 +779,7 @@
 /* Arial Black*/
 
 @font-face {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial';
   font-style: normal;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ariblk.ttf) format('truetype');
@@ -790,7 +790,7 @@
 /* Arial Narrow */
 
 @font-face {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ARIALN.TTF) format('truetype');
@@ -799,7 +799,7 @@
 /* Arial Narow Bold */
 
 @font-face {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial';
   font-style: normal;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ARIALNB.TTF) format('truetype');
@@ -808,7 +808,7 @@
 /* Arial Narow Bold Italic */
 
 @font-face {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial';
   font-style: italic;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ARIALNBI.TTF) format('truetype');
@@ -817,7 +817,7 @@
 /* Arial Narow Italic */
 
 @font-face {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Arial';
   font-style: italic;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ARIALNI.TTF) format('truetype');
@@ -828,7 +828,7 @@
 /* Arial Rounded MT Bold */
 
 @font-face {
-  font-family: 'Arial Rounded MT Bold', sans-serif;
+  font-family: 'Arial Rounded MT Bold';
   font-style: normal;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ARLRDBD.TTF) format('truetype');
@@ -839,7 +839,7 @@
 /* Bahnschrift Light*/
 
 @font-face {
-  font-family: 'Bahnschrift Light', sans-serif;
+  font-family: 'Bahnschrift Light';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/bahnschrift.ttf) format('truetype');
@@ -861,7 +861,7 @@
 /* Bungee Outline */
 
 @font-face {
-  font-family: 'Bungee Outline', sans-serif;
+  font-family: 'Bungee Outline';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/BungeeOutline-Regular.ttf) format('truetype');
@@ -872,7 +872,7 @@
 /* Coco Gothic */
 
 @font-face {
-  font-family: 'Coco Gothic', sans-serif;
+  font-family: 'Coco Gothic';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/CocoGothic_trial.ttf) format('truetype');
@@ -881,7 +881,7 @@
 /* Coco Gothic Bold */
 
 @font-face {
-  font-family: 'Coco Gothic', sans-serif;
+  font-family: 'Coco Gothic';
   font-style: italic;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/CocoGothic-Italic_trial.ttf) format('truetype');
@@ -890,7 +890,7 @@
 /* Coco Gothic Bold */
 
 @font-face {
-  font-family: 'Coco Gothic', sans-serif;
+  font-family: 'Coco Gothic';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/CocoGothic-Bold_trial.ttf) format('truetype');
@@ -899,7 +899,7 @@
 /* Coco Gothic Bold Italic */
 
 @font-face {
-  font-family: 'Coco Gothic', sans-serif;
+  font-family: 'Coco Gothic';
   font-style: italic;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/CocoGothic-BoldItalic_trial.ttf) format('truetype');
@@ -910,7 +910,7 @@
 /* Coco Gothic Fat */
 
 @font-face {
-  font-family: 'Coco Gothic ExtBlk', sans-serif;
+  font-family: 'Coco Gothic ExtBlk';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/CocoGothic-Fat_trial.ttf) format('truetype');
@@ -919,7 +919,7 @@
 /* Coco Gothic Fat Italic */
 
 @font-face {
-  font-family: 'Coco Gothic ExtBlk', sans-serif;
+  font-family: 'Coco Gothic ExtBlk';
   font-style: italic;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/CocoGothic-FatItalic_trial.ttf) format('truetype');
@@ -930,7 +930,7 @@
 /* Coco Gothic Ultra Light */
 
 @font-face {
-  font-family: 'Coco Gothic ExtLt', sans-serif;
+  font-family: 'Coco Gothic ExtLt';
   font-style: normal;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/CocoGothic-UltraLight_trial.ttf) format('truetype');
@@ -939,7 +939,7 @@
 /* Coco Gothic Ultra Light Italic */
 
 @font-face {
-  font-family: 'Coco Gothic ExtLt', sans-serif;
+  font-family: 'Coco Gothic ExtLt';
   font-style: italic;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/CocoGothic-UltraLightItalic_trial.ttf) format('truetype');
@@ -950,7 +950,7 @@
 /* Coco Gothic Fat */
 
 @font-face {
-  font-family: 'Coco Gothic Heavy', sans-serif;
+  font-family: 'Coco Gothic Heavy';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/CocoGothic-Heavy_trial.ttf) format('truetype');
@@ -959,7 +959,7 @@
 /* Coco Gothic Fat Italic */
 
 @font-face {
-  font-family: 'Coco Gothic Heavy', sans-serif;
+  font-family: 'Coco Gothic Heavy';
   font-style: italic;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/CocoGothic-HeavyItalic_trial.ttf) format('truetype');
@@ -970,7 +970,7 @@
 /* Coco Gothic Light */
 
 @font-face {
-  font-family: 'Coco Gothic Light', sans-serif;
+  font-family: 'Coco Gothic Light';
   font-style: normal;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/CocoGothic-Light_trial.ttf) format('truetype');
@@ -979,7 +979,7 @@
 /* Coco Gothic Light Italic */
 
 @font-face {
-  font-family: 'Coco Gothic Light', sans-serif;
+  font-family: 'Coco Gothic Light';
   font-style: italic;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/CocoGothic-LightItalic_trial.ttf) format('truetype');
@@ -990,7 +990,7 @@
 /* Cocogoose */
 
 @font-face {
-  font-family: 'COCOGOOSE', sans-serif;
+  font-family: 'COCOGOOSE';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Cocogoose_trial.otf) format('truetype');
@@ -999,7 +999,7 @@
 /* Cocogoose Light */
 
 @font-face {
-  font-family: 'COCOGOOSE', sans-serif;
+  font-family: 'COCOGOOSE';
   font-style: normal;
   font-weight: 300;
   src: url('Cocogoose Pro Light-trial.ttf') format('truetype');
@@ -1008,7 +1008,7 @@
 /* Cocogoose Semi Light */
 
 @font-face {
-  font-family: 'COCOGOOSE', sans-serif;
+  font-family: 'COCOGOOSE';
   font-style: normal;
   font-weight: 400;
   src: url('Cocogoose Pro Semilight-trial.ttf') format('truetype');
@@ -1017,7 +1017,7 @@
 /* Cocogoose Ultra Light */
 
 @font-face {
-  font-family: 'COCOGOOSE', sans-serif;
+  font-family: 'COCOGOOSE';
   font-style: normal;
   font-weight: 200;
   src: url('Cocogoose Pro Ultralight-trial.ttf') format('truetype');
@@ -1028,7 +1028,7 @@
 /* Diplomata SC Regular */
 
 @font-face {
-  font-family: 'Dimplomata SC', sans-serif;
+  font-family: 'Dimplomata SC';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/DiplomataSC-Regular.ttf) format('truetype');
@@ -1039,7 +1039,7 @@
 /* Eureka Sans Black */
 
 @font-face {
-  font-family: 'Eureka Sans Black', sans-serif;
+  font-family: 'Eureka Sans Black';
   font-style: normal;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/EurekaSans-Black.ttf) format('truetype');
@@ -1050,7 +1050,7 @@
 /* Eureka Sans Capitals Bold */
 
 @font-face {
-  font-family: 'Eureka Sans Bold CAPS', sans-serif;
+  font-family: 'Eureka Sans Bold CAPS';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/EurekaSansCapitals-Bold.ttf) format('truetype');
@@ -1061,7 +1061,7 @@
 /* Eureka Sans Medium CAPS */
 
 @font-face {
-  font-family: 'Eureka Sans Medium CAPS', sans-serif;
+  font-family: 'Eureka Sans Medium CAPS';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/EurekaSansCapitals-Medium.ttf) format('truetype');
@@ -1072,7 +1072,7 @@
 /* Eureka Sans Regular CAPS */
 
 @font-face {
-  font-family: 'Eureka Sans Regular CAPS', sans-serif;
+  font-family: 'Eureka Sans Regular CAPS';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/EurekaSansCapitals-Regular.ttf) format('truetype');
@@ -1083,7 +1083,7 @@
 /* EurekaSansOT-CondMedium */
 
 @font-face {
-  font-family: 'EurekaSansOT-CondMedium', sans-serif;
+  font-family: 'EurekaSansOT-CondMedium';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/EurekaSansCondensed-CondMed.ttf) format('truetype');
@@ -1094,7 +1094,7 @@
 /* Fjalla One */
 
 @font-face {
-  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Fjalla One';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/FjallaOne-Regular.ttf) format('truetype');
@@ -1105,7 +1105,7 @@
 /* Greycliff CF */
 
 @font-face {
-  font-family: 'Greycliff CF', sans-serif;
+  font-family: 'Greycliff CF';
   font-style: normal;
   font-weight: 400;
   src: url(Connary Fagen - Greycliff CF Regular.otf) format('truetype');
@@ -1114,7 +1114,7 @@
 /* Greycliff CF Italic */
 
 @font-face {
-  font-family: 'Greycliff CF', sans-serif;
+  font-family: 'Greycliff CF';
   font-style: italic;
   font-weight: 400;
   src: url(Connary Fagen - Greycliff CF Regular Oblique.otf) format('truetype');
@@ -1123,7 +1123,7 @@
 /* Greycliff CF Bold */
 
 @font-face {
-  font-family: 'Greycliff CF', sans-serif;
+  font-family: 'Greycliff CF';
   font-style: normal;
   font-weight: 600;
   src: url(Connary Fagen - Greycliff CF Bold.otf) format('truetype');
@@ -1132,7 +1132,7 @@
 /* Greycliff CF Bold */
 
 @font-face {
-  font-family: 'Greycliff CF', sans-serif;
+  font-family: 'Greycliff CF';
   font-style: italic;
   font-weight: 600;
   src: url(Connary Fagen - Greycliff CF Bold Oblique.otf) format('truetype');
@@ -1143,7 +1143,7 @@
 /* Greycliff CF Demi Bold */
 
 @font-face {
-  font-family: 'Greycliff CF Demi Bold', sans-serif;
+  font-family: 'Greycliff CF Demi Bold';
   font-style: normal;
   font-weight: 600;
   src: url(Connary Fagen - Greycliff CF Demi Bold.otf) format('truetype');
@@ -1152,7 +1152,7 @@
 /* Greycliff CF Demi Bold Italic */
 
 @font-face {
-  font-family: 'Greycliff CF Demi Bold', sans-serif;
+  font-family: 'Greycliff CF Demi Bold';
   font-style: italic;
   font-weight: 600;
   src: url(Connary Fagen - Greycliff CF Demi Bold Oblique.otf) format('truetype');
@@ -1163,7 +1163,7 @@
 /* Greycliff CF Extra Bold */
 
 @font-face {
-  font-family: 'Greycliff CF Demi Bold', sans-serif;
+  font-family: 'Greycliff CF Demi Bold';
   font-style: normal;
   font-weight: 900;
   src: url(Connary Fagen - Greycliff CF Extra Bold.otf) format('truetype');
@@ -1172,7 +1172,7 @@
 /* Greycliff CF Extra Bold Italic */
 
 @font-face {
-  font-family: 'Greycliff CF Demi Bold', sans-serif;
+  font-family: 'Greycliff CF Demi Bold';
   font-style: italic;
   font-weight: 900;
   src: url(Connary Fagen - Greycliff CF Extra Bold Oblique.otf) format('truetype');
@@ -1183,7 +1183,7 @@
 /* Greycliff CF Extra Light */
 
 @font-face {
-  font-family: 'Greycliff CF Extra Light', sans-serif;
+  font-family: 'Greycliff CF Extra Light';
   font-style: normal;
   font-weight: 200;
   src: url(Connary Fagen - Greycliff CF Extra Light.otf) format('truetype');
@@ -1192,7 +1192,7 @@
 /* Greycliff CF Extra Light Italic */
 
 @font-face {
-  font-family: 'Greycliff CF Extra Light', sans-serif;
+  font-family: 'Greycliff CF Extra Light';
   font-style: italic;
   font-weight: 200;
   src: url(Connary Fagen - Greycliff CF Extra Light Oblique.otf) format('truetype');
@@ -1203,7 +1203,7 @@
 /* Greycliff CF Heavy */
 
 @font-face {
-  font-family: 'Greycliff CF Heavy', sans-serif;
+  font-family: 'Greycliff CF Heavy';
   font-style: normal;
   font-weight: 900;
   src: url(Connary Fagen - Greycliff CF Heavy.otf) format('truetype');
@@ -1212,7 +1212,7 @@
 /* Greycliff CF Extra Heavy Italic */
 
 @font-face {
-  font-family: 'Greycliff CF Heavy', sans-serif;
+  font-family: 'Greycliff CF Heavy';
   font-style: italic;
   font-weight: 900;
   src: url(Connary Fagen - Greycliff CF Heavy Oblique.otf) format('truetype');
@@ -1223,7 +1223,7 @@
 /* Greycliff CF Light */
 
 @font-face {
-  font-family: 'Greycliff CF Light', sans-serif;
+  font-family: 'Greycliff CF Light';
   font-style: normal;
   font-weight: 300;
   src: url(Connary Fagen - Greycliff CF Light.otf) format('truetype');
@@ -1232,7 +1232,7 @@
 /* Greycliff CF Extra Light Italic */
 
 @font-face {
-  font-family: 'Greycliff CF Light', sans-serif;
+  font-family: 'Greycliff CF Light';
   font-style: italic;
   font-weight: 300;
   src: url(Connary Fagen - Greycliff CF Light Oblique.otf) format('truetype');
@@ -1243,7 +1243,7 @@
 /* Greycliff CF Medium */
 
 @font-face {
-  font-family: 'Greycliff CF Medium', sans-serif;
+  font-family: 'Greycliff CF Medium';
   font-style: normal;
   font-weight: 400;
   src: url(Connary Fagen - Greycliff CF Medium.otf) format('truetype');
@@ -1252,7 +1252,7 @@
 /* Greycliff CF Medium Italic */
 
 @font-face {
-  font-family: 'Greycliff CF Light', sans-serif;
+  font-family: 'Greycliff CF Light';
   font-style: italic;
   font-weight: 400;
   src: url(Connary Fagen - Greycliff CF Medium Oblique.otf) format('truetype');
@@ -1263,7 +1263,7 @@
 /* Greycliff CF Thin */
 
 @font-face {
-  font-family: 'Greycliff CF Thin', sans-serif;
+  font-family: 'Greycliff CF Thin';
   font-style: normal;
   font-weight: 200;
   src: url(Connary Fagen - Greycliff CF Thin.otf) format('truetype');
@@ -1272,7 +1272,7 @@
 /* Greycliff CF Thin Italic */
 
 @font-face {
-  font-family: 'Greycliff CF Thin', sans-serif;
+  font-family: 'Greycliff CF Thin';
   font-style: italic;
   font-weight: 200;
   src: url(Connary Fagen - Greycliff CF Thin Oblique.otf) format('truetype');
@@ -1283,7 +1283,7 @@
 /* Helvetica */
 
 @font-face {
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Helvetica';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Helvetica.ttf) format('truetype');
@@ -1292,7 +1292,7 @@
 /* Helvetica Italic */
 
 @font-face {
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Helvetica';
   font-style: italic;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Helvetica-Oblique.ttf) format('truetype');
@@ -1301,7 +1301,7 @@
 /* Helvetica Bold */
 
 @font-face {
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Helvetica';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Helvetica-Bold.ttf) format('truetype');
@@ -1310,7 +1310,7 @@
 /* Helvetica Bold Italic */
 
 @font-face {
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Helvetica';
   font-style: italic;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Helvetica-BoldOblique.ttf) format('truetype');
@@ -1321,7 +1321,7 @@
 /* Helvetica Compressed */
 
 @font-face {
-  font-family: 'Helvetica Compressed', sans-serif;
+  font-family: 'Helvetica Compressed';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/helvetica-compressed.otf) format('truetype');
@@ -1332,7 +1332,7 @@
 /* Helvetica Light */
 
 @font-face {
-  font-family: 'Helvetica Light', sans-serif;
+  font-family: 'Helvetica Light';
   font-style: normal;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/helvetica-light.ttf) format('truetype');
@@ -1343,7 +1343,7 @@
 /* Helvetica Rounded */
 
 @font-face {
-  font-family: 'Helvetica Rounded', sans-serif;
+  font-family: 'Helvetica Rounded';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/helvetica-rounded-bold.otf) format('truetype');
@@ -1365,7 +1365,7 @@
 /* Lato */
 
 @font-face {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Lato-Regular.ttf) format('truetype');
@@ -1374,7 +1374,7 @@
 /* Lato Italic */
 
 @font-face {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato';
   font-style: italic;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Lato-Italic.ttf) format('truetype');
@@ -1383,7 +1383,7 @@
 /* Lato Bold */
 
 @font-face {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Lato-Bold.ttf) format('truetype');
@@ -1392,7 +1392,7 @@
 /* Lato Bold Italic */
 
 @font-face {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Lato-BoldItalic.ttf) format('truetype');
@@ -1403,7 +1403,7 @@
 /* Lato Black */
 
 @font-face {
-  font-family: 'Lato Black', sans-serif;
+  font-family: 'Lato Black';
   font-style: normal;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Lato-Black.ttf) format('truetype');
@@ -1412,7 +1412,7 @@
 /* Lato Black Italic */
 
 @font-face {
-  font-family: 'Lato Black', sans-serif;
+  font-family: 'Lato Black';
   font-style: normal;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Lato-BlackItalic.ttf) format('truetype');
@@ -1423,7 +1423,7 @@
 /* Lato light */
 
 @font-face {
-  font-family: 'Lato Light', sans-serif;
+  font-family: 'Lato Light';
   font-style: normal;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Lato-Light.ttf) format('truetype');
@@ -1432,7 +1432,7 @@
 /* Lato Light Italic */
 
 @font-face {
-  font-family: 'Lato light', sans-serif;
+  font-family: 'Lato light';
   font-style: normal;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Lato-LightItalic.ttf) format('truetype');
@@ -1443,7 +1443,7 @@
 /* Lato Hairline */
 
 @font-face {
-  font-family: 'Lato Hairline', sans-serif;
+  font-family: 'Lato Hairline';
   font-style: normal;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Lato-Thin.ttf) format('truetype');
@@ -1452,7 +1452,7 @@
 /* Lato Hairline Italic */
 
 @font-face {
-  font-family: 'Lato Hairline', sans-serif;
+  font-family: 'Lato Hairline';
   font-style: normal;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Lato-ThinItalic.ttf) format('truetype');
@@ -1474,7 +1474,7 @@
 /* Monofett */
 
 @font-face {
-  font-family: 'Monofett', sans-serif;
+  font-family: 'Monofett';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Monofett-Regular.ttf) format('truetype');
@@ -1485,7 +1485,7 @@
 /* Montserrat */
 
 @font-face {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-Regular.ttf) format('truetype');
@@ -1494,7 +1494,7 @@
 /* Montserrat Italic */
 
 @font-face {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-Italic.ttf) format('truetype');
@@ -1503,7 +1503,7 @@
 /* Montserrat Bold */
 
 @font-face {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-Bold.ttf) format('truetype');
@@ -1512,7 +1512,7 @@
 /* Montserrat BoldItalic */
 
 @font-face {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat';
   font-style: italic;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-BoldItalic.ttf) format('truetype');
@@ -1523,7 +1523,7 @@
 /* Montserrat Black */
 
 @font-face {
-  font-family: 'Montserrat Black', sans-serif;
+  font-family: 'Montserrat Black';
   font-style: normal;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-Black.ttf) format('truetype');
@@ -1532,7 +1532,7 @@
 /* Montserrat Black Italic */
 
 @font-face {
-  font-family: 'Montserrat Black', sans-serif;
+  font-family: 'Montserrat Black';
   font-style: italic;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-BlackItalic.ttf) format('truetype');
@@ -1543,7 +1543,7 @@
 /* Montserrat ExtraBold */
 
 @font-face {
-  font-family: 'Montserrat ExtraBold', sans-serif;
+  font-family: 'Montserrat ExtraBold';
   font-style: normal;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-ExtraBold.ttf) format('truetype');
@@ -1552,7 +1552,7 @@
 /* Montserrat ExtraBold Italic */
 
 @font-face {
-  font-family: 'Montserrat ExtraBold', sans-serif;
+  font-family: 'Montserrat ExtraBold';
   font-style: italic;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-ExtraBoldItalic.ttf) format('truetype');
@@ -1563,7 +1563,7 @@
 /* Montserrat ExtraLight */
 
 @font-face {
-  font-family: 'Montserrat ExtraLight', sans-serif;
+  font-family: 'Montserrat ExtraLight';
   font-style: normal;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-ExtraLight.ttf) format('truetype');
@@ -1572,7 +1572,7 @@
 /* Montserrat ExtraLight Italic */
 
 @font-face {
-  font-family: 'Montserrat ExtraLight', sans-serif;
+  font-family: 'Montserrat ExtraLight';
   font-style: italic;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-ExtraLightItalic.ttf) format('truetype');
@@ -1583,7 +1583,7 @@
 /* Montserrat Medium */
 
 @font-face {
-  font-family: 'Montserrat Medium', sans-serif;
+  font-family: 'Montserrat Medium';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-Medium.ttf) format('truetype');
@@ -1592,7 +1592,7 @@
 /* Montserrat Medium Italic */
 
 @font-face {
-  font-family: 'Montserrat Medium', sans-serif;
+  font-family: 'Montserrat Medium';
   font-style: italic;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-MediumItalic.ttf) format('truetype');
@@ -1603,7 +1603,7 @@
 /* Montserrat SemiBold */
 
 @font-face {
-  font-family: 'Montserrat SemiBold', sans-serif;
+  font-family: 'Montserrat SemiBold';
   font-style: normal;
   font-weight: 500;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-SemiBold.ttf) format('truetype');
@@ -1612,7 +1612,7 @@
 /* Montserrat SemiBold Italic */
 
 @font-face {
-  font-family: 'Montserrat SemiBold', sans-serif;
+  font-family: 'Montserrat SemiBold';
   font-style: italic;
   font-weight: 500;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-SemiBoldItalic.ttf) format('truetype');
@@ -1623,7 +1623,7 @@
 /* Montserrat Thin */
 
 @font-face {
-  font-family: 'Montserrat Thin', sans-serif;
+  font-family: 'Montserrat Thin';
   font-style: normal;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-Thin.ttf) format('truetype');
@@ -1632,7 +1632,7 @@
 /* Montserrat Thin Italic */
 
 @font-face {
-  font-family: 'Montserrat Thin', sans-serif;
+  font-family: 'Montserrat Thin';
   font-style: italic;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Montserrat-ThinItalic.ttf) format('truetype');
@@ -1643,7 +1643,7 @@
 /* Nabla */
 
 @font-face {
-  font-family: 'Nabla', sans-serif;
+  font-family: 'Nabla';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Nabla-Regular.ttf) format('truetype');
@@ -1654,7 +1654,7 @@
 /* Nosifer */
 
 @font-face {
-  font-family: 'Nosifer', sans-serif;
+  font-family: 'Nosifer';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Nosifer-Regular.ttf) format('truetype');
@@ -1665,7 +1665,7 @@
 /* Noto Color Emoji */
 
 @font-face {
-  font-family: 'Noto Color Emoji', sans-serif;
+  font-family: 'Noto Color Emoji';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/NotoColorEmoji-Regular.ttf) format('truetype');
@@ -1676,7 +1676,7 @@
 /* Noto Sans EgyptHiero */
 
 @font-face {
-  font-family: 'Noto Sans EgyptHiero', sans-serif;
+  font-family: 'Noto Sans EgyptHiero';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/NotoSansEgyptianHieroglyphs-Regular.ttf) format('truetype');
@@ -1698,7 +1698,7 @@
 /* Poppins */
 
 @font-face {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-Regular.ttf) format('truetype');
@@ -1707,7 +1707,7 @@
 /* Poppins Italic */
 
 @font-face {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: italic;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-Italic.ttf) format('truetype');
@@ -1716,7 +1716,7 @@
 /* Poppins Bold */
 
 @font-face {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-Bold.ttf) format('truetype');
@@ -1725,7 +1725,7 @@
 /* Poppins Bold Italic */
 
 @font-face {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Poppins';
   font-style: italic;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-BoldItalic.ttf) format('truetype');
@@ -1736,7 +1736,7 @@
 /* Poppins Black */
 
 @font-face {
-  font-family: 'Poppins Black', sans-serif;
+  font-family: 'Poppins Black';
   font-style: normal;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-Black.ttf) format('truetype');
@@ -1745,7 +1745,7 @@
 /* Poppins Black Italic */
 
 @font-face {
-  font-family: 'Poppins Black', sans-serif;
+  font-family: 'Poppins Black';
   font-style: italic;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-BlackItalic.ttf) format('truetype');
@@ -1756,7 +1756,7 @@
 /* Poppins ExtraBold */
 
 @font-face {
-  font-family: 'Poppins ExtraBold', sans-serif;
+  font-family: 'Poppins ExtraBold';
   font-style: normal;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-ExtraBold.ttf) format('truetype');
@@ -1765,7 +1765,7 @@
 /* Poppins ExtraBold Italic */
 
 @font-face {
-  font-family: 'Poppins ExtraBold', sans-serif;
+  font-family: 'Poppins ExtraBold';
   font-style: italic;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-ExtraBoldItalic.ttf) format('truetype');
@@ -1776,7 +1776,7 @@
 /* Poppins ExtraLight */
 
 @font-face {
-  font-family: 'Poppins ExtraLight', sans-serif;
+  font-family: 'Poppins ExtraLight';
   font-style: normal;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-ExtraLight.ttf) format('truetype');
@@ -1785,7 +1785,7 @@
 /* Poppins ExtraLight Italic */
 
 @font-face {
-  font-family: 'Poppins ExtraLight', sans-serif;
+  font-family: 'Poppins ExtraLight';
   font-style: italic;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-ExtraLightItalic.ttf) format('truetype');
@@ -1796,7 +1796,7 @@
 /* Poppins Light */
 
 @font-face {
-  font-family: 'Poppins Light', sans-serif;
+  font-family: 'Poppins Light';
   font-style: normal;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-Light.ttf) format('truetype');
@@ -1805,7 +1805,7 @@
 /* Poppins Light Italic */
 
 @font-face {
-  font-family: 'Poppins Light', sans-serif;
+  font-family: 'Poppins Light';
   font-style: italic;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-LightItalic.ttf) format('truetype');
@@ -1816,7 +1816,7 @@
 /* Poppins Medium */
 
 @font-face {
-  font-family: 'Poppins Medium', sans-serif;
+  font-family: 'Poppins Medium';
   font-style: normal;
   font-weight: 500;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-Medium.ttf) format('truetype');
@@ -1825,7 +1825,7 @@
 /* Poppins Medium Italic */
 
 @font-face {
-  font-family: 'Poppins Medium', sans-serif;
+  font-family: 'Poppins Medium';
   font-style: italic;
   font-weight: 500;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-MediumItalic.ttf) format('truetype');
@@ -1836,7 +1836,7 @@
 /* Poppins SemiBold */
 
 @font-face {
-  font-family: 'Poppins SemiBold', sans-serif;
+  font-family: 'Poppins SemiBold';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-SemiBold.ttf) format('truetype');
@@ -1845,7 +1845,7 @@
 /* Poppins SemiBold Italic */
 
 @font-face {
-  font-family: 'Poppins SemiBold', sans-serif;
+  font-family: 'Poppins SemiBold';
   font-style: italic;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-SemiBoldItalic.ttf) format('truetype');
@@ -1856,7 +1856,7 @@
 /* Poppins Thin */
 
 @font-face {
-  font-family: 'Poppins Thin', sans-serif;
+  font-family: 'Poppins Thin';
   font-style: normal;
   font-weight: 100;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-Thin.ttf) format('truetype');
@@ -1865,7 +1865,7 @@
 /* Poppins SThin Italic */
 
 @font-face {
-  font-family: 'Poppins Thin', sans-serif;
+  font-family: 'Poppins Thin';
   font-style: italic;
   font-weight: 100;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Poppins-ThinItalic.ttf) format('truetype');
@@ -1876,7 +1876,7 @@
 /* Proxima Nova */
 
 @font-face {
-  font-family: 'Proxima Nova', sans-serif;
+  font-family: 'Proxima Nova';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova.ttf) format('truetype');
@@ -1885,7 +1885,7 @@
 /* Proxima Nova Italic */
 
 @font-face {
-  font-family: 'Proxima Nova', sans-serif;
+  font-family: 'Proxima Nova';
   font-style: italic;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Italic.ttf) format('truetype');
@@ -1894,7 +1894,7 @@
 /* Proxima Nova Bold */
 
 @font-face {
-  font-family: 'Proxima Nova', sans-serif;
+  font-family: 'Proxima Nova';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Bold.ttf) format('truetype');
@@ -1903,7 +1903,7 @@
 /* Proxima Nova Bold Italic */
 
 @font-face {
-  font-family: 'Proxima Nova', sans-serif;
+  font-family: 'Proxima Nova';
   font-style: italic;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Bold-Italic.ttf) format('truetype');
@@ -1914,7 +1914,7 @@
 /* Proxima Nova Black */
 
 @font-face {
-  font-family: 'Proxima Nova Black', sans-serif;
+  font-family: 'Proxima Nova Black';
   font-style: normal;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Black.ttf) format('truetype');
@@ -1923,7 +1923,7 @@
 /* Proxima Nova Black Italic */
 
 @font-face {
-  font-family: 'Proxima Nova Black', sans-serif;
+  font-family: 'Proxima Nova Black';
   font-style: italic;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Black-Italic.ttf) format('truetype');
@@ -1934,7 +1934,7 @@
 /* Proxima Nova Condensed */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed', sans-serif;
+  font-family: 'Proxima Nova Condensed';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Condensed.ttf) format('truetype');
@@ -1943,7 +1943,7 @@
 /* Proxima Nova Italic */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed', sans-serif;
+  font-family: 'Proxima Nova Condensed';
   font-style: italic;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Condensed-Italic.ttf) format('truetype');
@@ -1952,7 +1952,7 @@
 /* Proxima Nova Bold Condensed */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed', sans-serif;
+  font-family: 'Proxima Nova Condensed';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Condensed.ttf) format('truetype');
@@ -1961,7 +1961,7 @@
 /* Proxima Nova Bold Italic */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed', sans-serif;
+  font-family: 'Proxima Nova Condensed';
   font-style: italic;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Condensed-Italic.ttf) format('truetype');
@@ -1972,7 +1972,7 @@
 /* Proxima Nova Black Condensed */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed Black', sans-serif;
+  font-family: 'Proxima Nova Condensed Black';
   font-style: normal;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Condensed-Black.ttf) format('truetype');
@@ -1981,7 +1981,7 @@
 /* Proxima Nova Black Condensed Italic */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed Black', sans-serif;
+  font-family: 'Proxima Nova Condensed Black';
   font-style: italic;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Condensed-Black-Italic.ttf) format('truetype');
@@ -1992,7 +1992,7 @@
 /* Proxima Nova Condensed ExtraBold */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed ExtraBold', sans-serif;
+  font-family: 'Proxima Nova Condensed ExtraBold';
   font-style: normal;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Condensed-ExtraBold.ttf) format('truetype');
@@ -2001,7 +2001,7 @@
 /* Proxima Nova Condensed ExtraBold Italic */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed ExtraBold', sans-serif;
+  font-family: 'Proxima Nova Condensed ExtraBold';
   font-style: italic;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Condensed-ExtraBold-Italic.ttf) format('truetype');
@@ -2012,7 +2012,7 @@
 /* Proxima Nova Condensed Light */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed Light', sans-serif;
+  font-family: 'Proxima Nova Condensed Light';
   font-style: normal;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Condensed-Light.ttf) format('truetype');
@@ -2021,7 +2021,7 @@
 /* Proxima Nova Condensed Light Italic */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed Light', sans-serif;
+  font-family: 'Proxima Nova Condensed Light';
   font-style: italic;
   font-weight: 300;
   src: url('ProximaNova-Condensed Light-Italic.ttf') format('truetype');
@@ -2032,7 +2032,7 @@
 /* Proxima Nova Condensed SemiBold */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed SemiBold', sans-serif;
+  font-family: 'Proxima Nova Condensed SemiBold';
   font-style: normal;
   font-weight: 500;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Condensed-SemiBold.ttf) format('truetype');
@@ -2041,7 +2041,7 @@
 /* Proxima Nova Condensed SemiBold Italic */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed SemiBold', sans-serif;
+  font-family: 'Proxima Nova Condensed SemiBold';
   font-style: italic;
   font-weight: 500;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Condensed-SemiBold-Italic.ttf) format('truetype');
@@ -2052,7 +2052,7 @@
 /* Proxima Nova Condensed Thin */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed Thin', sans-serif;
+  font-family: 'Proxima Nova Condensed Thin';
   font-style: normal;
   font-weight: 500;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Condensed-Thin.ttf) format('truetype');
@@ -2061,7 +2061,7 @@
 /* Proxima Nova Condensed Thin Italic */
 
 @font-face {
-  font-family: 'Proxima Nova Condensed Thin', sans-serif;
+  font-family: 'Proxima Nova Condensed Thin';
   font-style: italic;
   font-weight: 500;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Condensed-Thin-Italic.ttf) format('truetype');
@@ -2072,7 +2072,7 @@
 /* Proxima Nova ExCn */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn', sans-serif;
+  font-family: 'Proxima Nova ExCn';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn.ttf) format('truetype');
@@ -2081,7 +2081,7 @@
 /* Proxima Nova ExCn Italic */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn', sans-serif;
+  font-family: 'Proxima Nova ExCn';
   font-style: italic;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn-Italic.ttf) format('truetype');
@@ -2090,7 +2090,7 @@
 /* Proxima Nova ExCn Bold */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn', sans-serif;
+  font-family: 'Proxima Nova ExCn';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn-Bold.ttf) format('truetype');
@@ -2099,7 +2099,7 @@
 /* Proxima Nova ExCn Bold Italic */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn', sans-serif;
+  font-family: 'Proxima Nova ExCn';
   font-style: italic;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn-Bold-Italic.ttf) format('truetype');
@@ -2110,7 +2110,7 @@
 /* Proxima Nova ExCn Black */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn Black', sans-serif;
+  font-family: 'Proxima Nova ExCn Black';
   font-style: normal;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn-Black.ttf) format('truetype');
@@ -2119,7 +2119,7 @@
 /* Proxima Nova ExCn Black Italic */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn Black', sans-serif;
+  font-family: 'Proxima Nova ExCn Black';
   font-style: italic;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn-Black-Italic.ttf) format('truetype');
@@ -2130,7 +2130,7 @@
 /* Proxima Nova ExCn ExtraBold */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn ExtraBold', sans-serif;
+  font-family: 'Proxima Nova ExCn ExtraBold';
   font-style: normal;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn-ExtraBold.ttf) format('truetype');
@@ -2139,7 +2139,7 @@
 /* Proxima Nova ExCn ExtraBold Italic */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn ExtraBold', sans-serif;
+  font-family: 'Proxima Nova ExCn ExtraBold';
   font-style: italic;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn-ExtraBold-Italic.ttf) format('truetype');
@@ -2150,7 +2150,7 @@
 /* Proxima Nova ExCn Light */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn Light', sans-serif;
+  font-family: 'Proxima Nova ExCn Light';
   font-style: normal;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn-Light.ttf) format('truetype');
@@ -2159,7 +2159,7 @@
 /* Proxima Nova ExCn Light Italic */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn Light', sans-serif;
+  font-family: 'Proxima Nova ExCn Light';
   font-style: italic;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn-Light-Italic.ttf) format('truetype');
@@ -2170,7 +2170,7 @@
 /* Proxima Nova ExCn SemiBold */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn SemiBold', sans-serif;
+  font-family: 'Proxima Nova ExCn SemiBold';
   font-style: normal;
   font-weight: 500;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn-SemiBold.ttf) format('truetype');
@@ -2179,7 +2179,7 @@
 /* Proxima Nova ExCn SemiBold Italic */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn SemiBold', sans-serif;
+  font-family: 'Proxima Nova ExCn SemiBold';
   font-style: italic;
   font-weight: 500;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn-SemiBold-Italic.ttf) format('truetype');
@@ -2190,7 +2190,7 @@
 /* Proxima Nova ExCn Thin */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn Thin', sans-serif;
+  font-family: 'Proxima Nova ExCn Thin';
   font-style: normal;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn-Thin.ttf) format('truetype');
@@ -2199,7 +2199,7 @@
 /* Proxima Nova ExCn Thin Italic */
 
 @font-face {
-  font-family: 'Proxima Nova ExCn Thin', sans-serif;
+  font-family: 'Proxima Nova ExCn Thin';
   font-style: italic;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExCn-Thin-Italic.ttf) format('truetype');
@@ -2210,7 +2210,7 @@
 /* Proxima Nova ExtraBold */
 
 @font-face {
-  font-family: 'Proxima Nova ExtraBold', sans-serif;
+  font-family: 'Proxima Nova ExtraBold';
   font-style: normal;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExtraBold.ttf) format('truetype');
@@ -2219,7 +2219,7 @@
 /* Proxima Nova ExtraBold Italic */
 
 @font-face {
-  font-family: 'Proxima Nova ExtraBold', sans-serif;
+  font-family: 'Proxima Nova ExtraBold';
   font-style: italic;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-ExtraBold-Italic.ttf) format('truetype');
@@ -2230,7 +2230,7 @@
 /* Proxima Nova Light */
 
 @font-face {
-  font-family: 'Proxima Nova Light', sans-serif;
+  font-family: 'Proxima Nova Light';
   font-style: normal;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Light.ttf) format('truetype');
@@ -2239,7 +2239,7 @@
 /* Proxima Nova Light Italic */
 
 @font-face {
-  font-family: 'Proxima Nova Light', sans-serif;
+  font-family: 'Proxima Nova Light';
   font-style: italic;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Light-Italic.ttf) format('truetype');
@@ -2250,7 +2250,7 @@
 /* Proxima Nova SemiBold */
 
 @font-face {
-  font-family: 'Proxima Nova SemiBold', sans-serif;
+  font-family: 'Proxima Nova SemiBold';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-SemiBold.ttf) format('truetype');
@@ -2259,7 +2259,7 @@
 /* Proxima Nova SemiBold Italic */
 
 @font-face {
-  font-family: 'Proxima Nova SemiBold', sans-serif;
+  font-family: 'Proxima Nova SemiBold';
   font-style: italic;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-SemiBold-Italic.ttf) format('truetype');
@@ -2270,7 +2270,7 @@
 /* Proxima Nova Thin */
 
 @font-face {
-  font-family: 'Proxima Nova Thin', sans-serif;
+  font-family: 'Proxima Nova Thin';
   font-style: normal;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Thin.ttf) format('truetype');
@@ -2279,7 +2279,7 @@
 /* Proxima Nova Thin Italic */
 
 @font-face {
-  font-family: 'Proxima Nova Thin', sans-serif;
+  font-family: 'Proxima Nova Thin';
   font-style: italic;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/ProximaNova-Thin-Italic.ttf) format('truetype');
@@ -2290,7 +2290,7 @@
 /* Rajdhani */
 
 @font-face {
-  font-family: 'Rajdhani', sans-serif;
+  font-family: 'Rajdhani';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Rajdhani-Regular.ttf) format('truetype');
@@ -2299,7 +2299,7 @@
 /* Rajdhani Bold */
 
 @font-face {
-  font-family: 'Rajdhani', sans-serif;
+  font-family: 'Rajdhani';
   font-style: normal;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Rajdhani-Bold.ttf) format('truetype');
@@ -2310,7 +2310,7 @@
 /* Rajdhani Light */
 
 @font-face {
-  font-family: 'Rajdhani Light', sans-serif;
+  font-family: 'Rajdhani Light';
   font-style: normal;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Rajdhani-Light.ttf) format('truetype');
@@ -2321,7 +2321,7 @@
 /* Rajdhani Medium */
 
 @font-face {
-  font-family: 'Rajdhani Medium', sans-serif;
+  font-family: 'Rajdhani Medium';
   font-style: normal;
   font-weight: 500;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Rajdhani-Medium.ttf) format('truetype');
@@ -2332,7 +2332,7 @@
 /* Rajdhani SemiBold */
 
 @font-face {
-  font-family: 'Rajdhani SemiBold', sans-serif;
+  font-family: 'Rajdhani SemiBold';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Rajdhani-SemiBold.ttf) format('truetype');
@@ -2343,7 +2343,7 @@
 /* Raleway */
 
 @font-face {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-Regular.ttf) format('truetype');
@@ -2352,7 +2352,7 @@
 /* Raleway Italic */
 
 @font-face {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway';
   font-style: italic;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-Italic.ttf) format('truetype');
@@ -2361,7 +2361,7 @@
 /* Raleway Bold */
 
 @font-face {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-Bold.ttf) format('truetype');
@@ -2370,7 +2370,7 @@
 /* Raleway Bold Italic */
 
 @font-face {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-BoldItalic.ttf) format('truetype');
@@ -2381,7 +2381,7 @@
 /* Raleway Black */
 
 @font-face {
-  font-family: 'Raleway Black', sans-serif;
+  font-family: 'Raleway Black';
   font-style: normal;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-Black.ttf) format('truetype');
@@ -2390,7 +2390,7 @@
 /* Raleway Black Italic */
 
 @font-face {
-  font-family: 'Raleway Black', sans-serif;
+  font-family: 'Raleway Black';
   font-style: italic;
   font-weight: 900;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-BlackItalic.ttf) format('truetype');
@@ -2401,7 +2401,7 @@
 /* Raleway ExtraBold */
 
 @font-face {
-  font-family: 'Raleway ExtraBold', sans-serif;
+  font-family: 'Raleway ExtraBold';
   font-style: normal;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-ExtraBold.ttf) format('truetype');
@@ -2410,7 +2410,7 @@
 /* Raleway ExtraBold Italic */
 
 @font-face {
-  font-family: 'Raleway ExtraBold', sans-serif;
+  font-family: 'Raleway ExtraBold';
   font-style: italic;
   font-weight: 800;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-ExtraBoldItalic.ttf) format('truetype');
@@ -2421,7 +2421,7 @@
 /* Raleway ExtraLight */
 
 @font-face {
-  font-family: 'Raleway ExtraLight', sans-serif;
+  font-family: 'Raleway ExtraLight';
   font-style: normal;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-ExtraLight.ttf) format('truetype');
@@ -2430,7 +2430,7 @@
 /* Raleway ExtraLight Italic */
 
 @font-face {
-  font-family: 'Raleway ExtraLight', sans-serif;
+  font-family: 'Raleway ExtraLight';
   font-style: italic;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-ExtraLightItalic.ttf) format('truetype');
@@ -2441,7 +2441,7 @@
 /* Raleway Light */
 
 @font-face {
-  font-family: 'Raleway Light', sans-serif;
+  font-family: 'Raleway Light';
   font-style: normal;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-Light.ttf) format('truetype');
@@ -2450,7 +2450,7 @@
 /* Raleway Light Italic */
 
 @font-face {
-  font-family: 'Raleway Light', sans-serif;
+  font-family: 'Raleway Light';
   font-style: italic;
   font-weight: 300;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-LightItalic.ttf) format('truetype');
@@ -2461,7 +2461,7 @@
 /* Raleway Medium */
 
 @font-face {
-  font-family: 'Raleway Medium', sans-serif;
+  font-family: 'Raleway Medium';
   font-style: normal;
   font-weight: 500;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-Medium.ttf) format('truetype');
@@ -2470,7 +2470,7 @@
 /* Raleway Medium Italic */
 
 @font-face {
-  font-family: 'Raleway Medium', sans-serif;
+  font-family: 'Raleway Medium';
   font-style: italic;
   font-weight: 500;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-MediumItalic.ttf) format('truetype');
@@ -2481,7 +2481,7 @@
 /* Raleway SemiBold */
 
 @font-face {
-  font-family: 'Raleway SemiBold', sans-serif;
+  font-family: 'Raleway SemiBold';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-SemiBold.ttf) format('truetype');
@@ -2490,7 +2490,7 @@
 /* Raleway SemiBold Italic */
 
 @font-face {
-  font-family: 'Raleway SemiBold', sans-serif;
+  font-family: 'Raleway SemiBold';
   font-style: italic;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-SemiBoldItalic.ttf) format('truetype');
@@ -2501,7 +2501,7 @@
 /* Raleway Thin */
 
 @font-face {
-  font-family: 'Raleway Thin', sans-serif;
+  font-family: 'Raleway Thin';
   font-style: normal;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-Thin.ttf) format('truetype');
@@ -2510,7 +2510,7 @@
 /* Raleway Thin Italic */
 
 @font-face {
-  font-family: 'Raleway Thin', sans-serif;
+  font-family: 'Raleway Thin';
   font-style: italic;
   font-weight: 200;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/Raleway-ThinItalic.ttf) format('truetype');
@@ -2521,7 +2521,7 @@
 /* Rampart One */
 
 @font-face {
-  font-family: 'Rampart One', sans-serif;
+  font-family: 'Rampart One';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/RampartOne-Regular.ttf) format('truetype');
@@ -2532,7 +2532,7 @@
 /* Söhne-Buch */
 
 @font-face {
-  font-family: 'Söhne', sans-serif;
+  font-family: 'Söhne';
   font-style: normal;
   font-weight: 400;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/SФhne-Buch.otf) format('truetype');
@@ -2543,7 +2543,7 @@
 /* Söhne Extrafett */
 
 @font-face {
-  font-family: 'Söhne Extrafett', sans-serif;
+  font-family: 'Söhne Extrafett';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/SФhne-Extrafett.otf) format('truetype');
@@ -2554,7 +2554,7 @@
 /* Train One */
 
 @font-face {
-  font-family: 'Train One', sans-serif;
+  font-family: 'Train One';
   font-style: normal;
   font-weight: 600;
   src: url(https:/cdn.jsdelivr.net/gh/divvy-digital/generate-player-font-cache@main/web-fonts/TrainOne-Regular.ttf) format('truetype');
