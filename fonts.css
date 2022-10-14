@@ -1443,7 +1443,7 @@
 /* Lato Hairline */
 
 @font-face {
-  font-family: 'Lato Hairline';
+  font-family: 'Lato Thin';
   font-style: normal;
   font-weight: 200;
   src: url(http://generate-font-cache-d84df2.s3-website-us-west-2.amazonaws.com/web-fonts/Lato-Thin.ttf) format('truetype');
@@ -1452,7 +1452,7 @@
 /* Lato Hairline Italic */
 
 @font-face {
-  font-family: 'Lato Hairline';
+  font-family: 'Lato Thin';
   font-style: normal;
   font-weight: 200;
   src: url(http://generate-font-cache-d84df2.s3-website-us-west-2.amazonaws.com/web-fonts/Lato-ThinItalic.ttf) format('truetype');
