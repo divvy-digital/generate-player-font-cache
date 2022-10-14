@@ -1163,7 +1163,7 @@
 /* Greycliff CF Extra Bold */
 
 @font-face {
-  font-family: 'Greycliff CF Demi Bold';
+  font-family: 'Greycliff CF Extra Bold';
   font-style: normal;
   font-weight: 900;
   src: url(http://generate-font-cache-d84df2.s3-website-us-west-2.amazonaws.com/web-fonts/Connary_Fagen-Greycliff_CF_Extra_Bold.otf) format('truetype');
@@ -1172,7 +1172,7 @@
 /* Greycliff CF Extra Bold Italic */
 
 @font-face {
-  font-family: 'Greycliff CF Demi Bold';
+  font-family: 'Greycliff CF Extra Bold';
   font-style: italic;
   font-weight: 900;
   src: url(http://generate-font-cache-d84df2.s3-website-us-west-2.amazonaws.com/web-fonts/Connary_Fagen-Greycliff_CF_Extra_Bold_Oblique.otf) format('truetype');
