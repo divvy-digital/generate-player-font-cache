@@ -790,7 +790,7 @@
 /* Arial Narrow */
 
 @font-face {
-  font-family: 'Arial';
+  font-family: 'Arial Narrow';
   font-style: normal;
   font-weight: 400;
   src: url(http://generate-font-cache-d84df2.s3-website-us-west-2.amazonaws.com/web-fonts/ARIALN.TTF) format('truetype');
@@ -799,7 +799,7 @@
 /* Arial Narow Bold */
 
 @font-face {
-  font-family: 'Arial';
+  font-family: 'Arial Narrow';
   font-style: normal;
   font-weight: 800;
   src: url(http://generate-font-cache-d84df2.s3-website-us-west-2.amazonaws.com/web-fonts/ARIALNB.TTF) format('truetype');
@@ -808,7 +808,7 @@
 /* Arial Narow Bold Italic */
 
 @font-face {
-  font-family: 'Arial';
+  font-family: 'Arial Narrow';
   font-style: italic;
   font-weight: 800;
   src: url(http://generate-font-cache-d84df2.s3-website-us-west-2.amazonaws.com/web-fonts/ARIALNBI.TTF) format('truetype');
@@ -817,7 +817,7 @@
 /* Arial Narow Italic */
 
 @font-face {
-  font-family: 'Arial';
+  font-family: 'Arial Narrow';
   font-style: italic;
   font-weight: 400;
   src: url(http://generate-font-cache-d84df2.s3-website-us-west-2.amazonaws.com/web-fonts/ARIALNI.TTF) format('truetype');
@@ -1469,7 +1469,7 @@
   src: url(http://generate-font-cache-d84df2.s3-website-us-west-2.amazonaws.com/web-fonts/MetalMania-Regular.ttf) format('truetype');
 }
 
-/* Monofett-Regular */
+/* Monofett */
 
 /* Monofett */
 
