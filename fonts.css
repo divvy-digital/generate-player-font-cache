@@ -1443,7 +1443,7 @@
 
 @font-face {
   font-family: 'Lato Black';
-  font-style: normal;
+  font-style: italic;
   font-weight: 900;
   src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Lato-BlackItalic.ttf) format('truetype');
 }
@@ -1463,7 +1463,7 @@
 
 @font-face {
   font-family: 'Lato light';
-  font-style: normal;
+  font-style: italic;
   font-weight: 300;
   src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Lato-LightItalic.ttf) format('truetype');
 }
@@ -1483,7 +1483,7 @@
 
 @font-face {
   font-family: 'Lato Thin';
-  font-style: normal;
+  font-style: italic;
   font-weight: 200;
   src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Lato-ThinItalic.ttf) format('truetype');
 }
