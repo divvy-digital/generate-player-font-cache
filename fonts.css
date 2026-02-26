@@ -1558,7 +1558,7 @@
 /* DynaPuff SemiCondensed Bold */
 
 @font-face {
-  font-family: 'DynaPuff';
+  font-family: 'DynaPuff_SemiCondensed';
   font-style: normal;
   font-weight: 700;
   src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/DynaPuff_SemiCondensed-Bold.ttf) format('truetype');
@@ -1567,7 +1567,7 @@
 /* DynaPuff SemiCondensed Medium */
 
 @font-face {
-  font-family: 'DynaPuff';
+  font-family: 'DynaPuff_SemiCondensed';
   font-style: normal;
   font-weight: 500;
   src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/DynaPuff_SemiCondensed-Medium.ttf) format('truetype');
@@ -1576,7 +1576,7 @@
 /* DynaPuff SemiCondensed Regular */
 
 @font-face {
-  font-family: 'DynaPuff';
+  font-family: 'DynaPuff_SemiCondensed';
   font-style: normal;
   font-weight: 400;
   src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/DynaPuff_SemiCondensed-Regular.ttf) format('truetype');
@@ -1585,7 +1585,7 @@
 /* DynaPuff SemiCondensed SemiBold */
 
 @font-face {
-  font-family: 'DynaPuff';
+  font-family: 'DynaPuff_SemiCondensed';
   font-style: normal;
   font-weight: 600;
   src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/DynaPuff_SemiCondensed-SemiBold.ttf) format('truetype');
