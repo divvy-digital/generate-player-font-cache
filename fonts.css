@@ -1115,6 +1115,44 @@
   src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/BungeeOutline-Regular.ttf) format('truetype');
 }
 
+/* Caviar Dreams */
+
+/* Caviar Dreams */
+
+@font-face {
+  font-family: 'Caviar Dreams';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/CaviarDreams.ttf) format('truetype');
+}
+
+/* Caviar Dreams Italic */
+
+@font-face {
+  font-family: 'Caviar Dreams';
+  font-style: italic;
+  font-weight: 400;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/CaviarDreams_Italic.ttf) format('truetype');
+}
+
+/* Caviar Dreams Bold */
+
+@font-face {
+  font-family: 'Caviar Dreams';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/CaviarDreams_Bold.ttf) format('truetype');
+}
+
+/* Caviar Dreams Bold Italic */
+
+@font-face {
+  font-family: 'Caviar Dreams';
+  font-style: italic;
+  font-weight: 700;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/CaviarDreams_BoldItalic.ttf) format('truetype');
+}
+
 /* Cera_Pro */
 
 /* Cera Pro Regular */
@@ -1298,6 +1336,44 @@
   font-style: normal;
   font-weight: 200;
   src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Cocogoose_Pro_Ultralight-trial.ttf) format('truetype');
+}
+
+/* Cushion */
+
+/* Cushion Light */
+
+@font-face {
+  font-family: 'Cushion';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Cushion_Light.ttf) format('truetype');
+}
+
+/* Cushion Medium */
+
+@font-face {
+  font-family: 'Cushion';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Cushion_Medium.ttf) format('truetype');
+}
+
+/* Cushion Bold */
+
+@font-face {
+  font-family: 'Cushion';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Cushion_Bold.ttf) format('truetype');
+}
+
+/* Cushion Black */
+
+@font-face {
+  font-family: 'Cushion';
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Cushion_Black.ttf) format('truetype');
 }
 
 /* Diplomata SC */
@@ -2431,6 +2507,17 @@
   src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/JacquesFrancoisShadow-Regular.ttf) format('truetype');
 }
 
+/* KEYZHA */
+
+/* KEYZHA */
+
+@font-face {
+  font-family: 'KEYZHA';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/KEYZHA.ttf) format('truetype');
+}
+
 /* Lato */
 
 /* Lato */
@@ -2869,6 +2956,17 @@
   font-style: normal;
   font-weight: 400;
   src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/OLDENGL.TTF) format('truetype');
+}
+
+/* Palm Beach */
+
+/* Palm Beach */
+
+@font-face {
+  font-family: 'Palm Beach';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Palm_Beach.ttf) format('truetype');
 }
 
 /* Poppins */
@@ -4205,6 +4303,48 @@
   src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Sansation-Regular.ttf) format('truetype');
 }
 
+/* Sergio Trendy */
+
+/* Sergio Trendy */
+
+@font-face {
+  font-family: 'Sergio Trendy';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Sergio_Trendy.ttf) format('truetype');
+}
+
+/* Social Media Circled */
+
+/* Social Media Circled */
+
+@font-face {
+  font-family: 'Social Media Circled';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Social_Media_Circled.ttf) format('truetype');
+}
+
+/* Subway */
+
+/* Subway Black */
+
+@font-face {
+  font-family: 'Subway';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Subway_Black.ttf) format('truetype');
+}
+
+/* Subway Shadow */
+
+@font-face {
+  font-family: 'Subway';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Subway_Shadow.ttf) format('truetype');
+}
+
 /* Söhne */
 
 /* Söhne-Buch */
@@ -4321,6 +4461,17 @@
   font-style: normal;
   font-weight: 400;
   src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Ubuntu-Regular.ttf) format('truetype');
+}
+
+/* Voguella */
+
+/* Voguella */
+
+@font-face {
+  font-family: 'Voguella';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://d1ey25htff89c2.cloudfront.net/web-fonts/Voguella.ttf) format('truetype');
 }
 
 /* aileron */
